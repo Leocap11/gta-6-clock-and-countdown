@@ -1,0 +1,6 @@
+{
+    "uuid": "gta6-countdown@vicountdown",
+    "name": "GTA VI Countdown",
+    "description": "GTA VI release countdown on the desktop. Double-click to unlock it and drag it around.",
+    "shell-version": ["45", "46", "47", "48", "49"]
+}

@@ -1,0 +1,7 @@
+{
+  "uuid": "gta6-countdown@vicountdown",
+  "name": "GTA VI Countdown",
+  "description": "GTA VI release countdown",
+  "prevent-decorations": true,
+  "max-instances": 1
+}

@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Id": "org.vicountdown.gta6countdown",
+        "Name": "GTA VI Countdown",
+        "Description": "GTA VI release countdown",
+        "Authors": [{ "Name": "GTA VI Countdown" }],
+        "Category": "Date and Time",
+        "License": "MIT",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

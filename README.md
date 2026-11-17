@@ -152,3 +152,9 @@ gta-6-clock-and-countdown/
 This is an unofficial fan project, not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
 
 The artwork and logo belong to Rockstar Games; the Pricedown font belongs to Typodermic Fonts (free Desktop license). None of them is included in this repository: the installer downloads them from the original sources for personal use only.
+
+## License
+
+The source code of this project is released under the [MIT License](LICENSE) © 2026 Leocap11.
+
+The license covers only the code in this repository. It does not cover the Rockstar Games artwork and logo or the Pricedown font, which the installer downloads and which remain the property of their respective owners.
